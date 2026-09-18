@@ -49,6 +49,11 @@
 
     Jl Medan Merdeka Barat No. 21, Jakarta Pusat, Jakarta 10110 Indonesia.
 
+## Tautan resmi & Media sosial perusahaan
+
+- [Instagram](https://www.instagram.com/indosat/?hl=en)
+- [Youtube](https://www.youtube.com/channel/UChs2x7pZ2D8UgHz9cgrn3sQ)
+
 ## Sumber
 
 [PT Indosat Ooredoo Hutchison](https://ioh.co.id/)
@@ -57,3 +62,6 @@
 
     Saya menyatakan bahwa riset dan kode ini saya kerjakan sendiri.
     AI hanya digunakan sebagai bantuan penjelasan konsep, bukan untuk menghasilkan jawaban akhir secara langsung
+
+# LIVE PREVIEW
+[PREVIEW](https://useeeeernames.github.io/sts-pwd-15-jonathan_christian_jurrien-x_tkj_1/)
